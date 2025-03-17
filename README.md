@@ -6,3 +6,5 @@ This is the final project of the Foundation/CSS part of the Odin's Project. It a
 2. CSS basic (Styling, Flexbox, etc.)
 
 Hopefully, I can finished this right away and soon enter the Javascript part.
+
+Note: In the process, it appears that "Roboto", the font used in the project is not defaultly installed on the macOS. I have to downloaded them from Google Fonts and manually installed them.

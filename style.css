@@ -3,7 +3,94 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    color:white;
+    font-style: italic;
+}
+
 .container,
 .footer {
+    display: flex;
+    flex-direction: column;
     background-color: #1F2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 20px 10%;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    gap: 20px;
+}
+
+.introduction {
+    align-self: center;
+    display: flex;
+    margin:40px 0 40px 0 ;
+    justify-content: space-between;
+    width: 80%;
+    height: 30vh;
+}
+.banner {
+    max-width: 50%;
+    flex: 1;
+    height: auto;
+    padding:10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    max-height: 300px;
+}
+
+img {
+    flex:1;
+    width: atuo;
+    height: auto;
+    max-height: 80%;
+    max-width: 100%;
+    border-radius: 5%;
+    box-shadow: 8px 8px lightblue;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 50%;
+    flex:1;
+    padding: 10px;
+    text-align: justify;
+}
+.intro-title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.button {
+    align-self: flex-start;
+    background-color: #3882F6;
+    font-family: inherit;
+    color: inherit;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    text-decoration: none;
+    font-style: none;
 }

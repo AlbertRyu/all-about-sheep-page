@@ -1,4 +1,6 @@
-# odin-landing-page
+# odin landing page project
+
+## Description
 
 This is the final project of the Foundation/CSS part of the Odin's Project. It asked us to build a web page from scratch which should looks exactly like a picture given. It serves the purpose of practicing:
 
@@ -7,4 +9,12 @@ This is the final project of the Foundation/CSS part of the Odin's Project. It a
 
 Hopefully, I can finished this right away and soon enter the Javascript part.
 
-Note: In the process, it appears that "Roboto", the font used in the project is not defaultly installed on the macOS. I have to downloaded them from Google Fonts and manually installed them.
+## The Process
+
+In the process, it appears that "Roboto", the font used in the project is not defaultly installed on the macOS. I have to downloaded them from Google Fonts and manually installed them.
+
+The site is finished using the given style, with the name All About Sheeps! Check if you like it!
+
+## Unresolved Problems
+
+The **font-weight:lighter** in the Quote section doesn't appear correctly. Possible reason the online font doesn't have lighter attribute value.

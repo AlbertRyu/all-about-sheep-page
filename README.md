@@ -13,7 +13,7 @@ Hopefully, I can finished this right away and soon enter the Javascript part.
 
 In the process, it appears that "Roboto", the font used in the project is not defaultly installed on the macOS. I have to downloaded them from Google Fonts and manually installed them.
 
-The site is finished using the given style, with the name All About Sheeps! Check if you like it!
+The site is finished using the given style, with the name [All About Sheep](https://ryunosuke.tech/all-about-sheeps-page/)! Check if you like it!
 
 ## Unresolved Problems
 
